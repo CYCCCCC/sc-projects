@@ -2,7 +2,7 @@
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
 ## Project Source Codes:
-* [Hangman Gmae](https://github.com/CYCCCCC/sc-projects/blob/main/sc_projects/hangman_game/hangman.py)
+* [Hangman Game](https://github.com/CYCCCCC/sc-projects/blob/main/sc_projects/hangman_game/hangman.py)
   * python semantics & syntax
 * [Pedestrian Removing Application](https://github.com/CYCCCCC/sc-projects/blob/main/sc_projects/pedestrian_removing_application/stanCodoshop.py)
   * image processing
