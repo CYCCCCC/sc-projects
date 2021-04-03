@@ -7,7 +7,7 @@ This repository holds my programming projects done during the period of stanCode
 * [Pedestrian Removing Application](https://github.com/CYCCCCC/sc-projects/blob/main/sc_projects/pedestrian_removing_application/stanCodoshop.py)
   * image processing
 * [Breakout Game](https://github.com/CYCCCCC/sc-projects/blob/main/sc_projects/break_out_game/breakout.py)
-  * nimation & game designing
+  * animation & game designing
 * [Name Searching System](https://github.com/CYCCCCC/sc-projects/blob/main/sc_projects/name_searching_system/babygraphics.py)
   * data structure
 * [Anagram Finder](https://github.com/CYCCCCC/sc-projects/blob/main/sc_projects/anagram_finder/anagram.py)
