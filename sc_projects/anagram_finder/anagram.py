@@ -56,7 +56,7 @@ def find_anagrams(s):
         s_index.append(i)
         if s[i] not in distinct_lst:
             distinct_lst.append(s[i])
-            # decrease the words of dictionary to be find
+            # decrease the words of dictionary to be found
             dict_prefix(s[i], current_dict)
     find_anagrams_helper(s, s_index, [], ans_lst, current_dict)
     return ans_lst
